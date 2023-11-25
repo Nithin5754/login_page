@@ -1,0 +1,70 @@
+[
+    {
+        "dog_name": "Labrador Retriever",
+        "origin": "Canada",
+        "life_span": "10-12 years",
+        "price": 800
+      
+        
+    },
+    {
+        "dog_name": "German Shepherd",
+        "origin": "Germany",
+        "life_span": "9-13 years",
+        "price": 1000
+    },
+    {
+        "dog_name": "Golden Retriever",
+        "origin": "Scotland",
+        "life_span": "10-12 years",
+        "price": 900
+    },
+    {
+        "dog_name": "Bulldog",
+        "origin": "England",
+        "life_span": "8-10 years",
+        "price": 1200
+    },
+    {
+        "dog_name": "Poodle",
+        "origin": "France",
+        "life_span": "10-18 years",
+        "price": 1500
+    },
+    {
+        "dog_name": "Chihuahua",
+        "origin": "Mexico",
+        "life_span": "12-20 years",
+        "price": 500
+    },
+    {
+        "dog_name": "Dachshund",
+        "origin": "Germany",
+        "life_span": "12-16 years",
+        "price": 700
+    },
+    {
+        "dog_name": "Siberian Husky",
+        "origin": "Russia",
+        "life_span": "12-15 years",
+        "price": 1100
+    },
+    {
+        "dog_name": "Beagle",
+        "origin": "England",
+        "life_span": "12-15 years",
+        "price": 800
+    },
+    {
+        "dog_name": "Rottweiler",
+        "origin": "Germany",
+        "life_span": "8-10 years",
+        "price": 1300
+    },
+    {
+        "dog_name": "Yorkshire Terrier",
+        "origin": "England",
+        "life_span": "12-15 years",
+        "price": 1000
+    }
+]
